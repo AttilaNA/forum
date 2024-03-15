@@ -1,0 +1,186 @@
+{
+    "family": {
+        "questions": [
+            {
+                "question": "first question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "second question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "third question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            }
+        ]
+    },
+    "freeTimeAndActivity": {
+        "questions": [
+            {
+                "question": "first question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "second question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "third question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            }
+        ]
+    },
+    "school": {
+        "questions": [
+            {
+                "question": "first question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "second question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "third question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            }
+        ]
+    },
+    "kindergarten": {
+        "questions": [
+            {
+                "question": "first question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "second question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            },
+            {
+                "question": "third question",
+                "answers": [
+                    {
+                        "answer": "first answer"
+                    },
+                    {
+                        "answer": "second answer"
+                    },
+                    {
+                        "answer": "third answer"
+                    }
+                ]
+            }
+        ]
+    }
+}
