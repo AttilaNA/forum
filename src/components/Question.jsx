@@ -1,18 +1,11 @@
-const Question = ({ questions }) => {
-  let counter = 1;
-  function setKey() {
-    counter++;
-    return `Question ${counter}`;
-  };
-
+const Question = ({ questionsOfCategory }) => {
   return (
-    <div>
-      {questions.map((question) => {
-        return <p key={setKey()}>{question}</p>
-      })}
-    </div>
+    <>
+      {
+        questionsOfCategory.map(x => <p key={`Question ${x.id}`}className={`Question ${x.id}`}>{x.question}</p>)
+      }
+    </>
   )
 }
 
 export default Question
-
